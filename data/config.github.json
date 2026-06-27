@@ -4,7 +4,7 @@
     "provider": "gemini",
     "model": "gemini-3.5-flash",
     "api_key_env": "GOOGLE_API_KEY",
-    "throttle_sec": 0,
+    "throttle_sec": 0
   },
   "sources": {
     "github": [
